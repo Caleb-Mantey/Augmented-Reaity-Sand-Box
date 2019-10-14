@@ -22,6 +22,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
 #include "ofMain.h"
 #include "ofApp.h"
+#include "../../../../libs/glfw/include/GLFW/glfw3.h"
 
 const std::string MagicSandVersion = "1.5.4.2";
 
